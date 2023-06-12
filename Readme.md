@@ -1,5 +1,5 @@
 ## Monitor Nike Brazil
-Script in Python that monitors the Brazilian Nike SNKRS and notifies on a channel on Discord.
+Script in Python that monitors the Brazilian Nike SNKRS and notifies on a channel on Discord!
 
 ## :warning: Prerequisites
 
