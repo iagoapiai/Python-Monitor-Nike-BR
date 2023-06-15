@@ -23,7 +23,7 @@ Script in Python that monitors the Brazilian Nike SNKRS and notifies on a channe
 This code will only work if you change the discord_webhook!
 
 ## THIS PRINT IS HOW THE BOT IS CORRENTLY
-I didn't update the code because I'm working on it
+I didn't update the code because I'm working on it!
 
 <p align="center">
     <img src="https://github.com/iagoapiai/Monitor-Nike-BR/assets/116030785/015f14c0-aa75-43e7-b3d0-1a297a856b91">
